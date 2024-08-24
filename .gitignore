@@ -1,10 +1,5 @@
 # Node.js
-node_modules/
-
-# Cypress
-cypress/screenshots/
-cypress/videos/
-cypress/e2e/**/reports/
+/node_modules
 
 # Logs
 *.log
